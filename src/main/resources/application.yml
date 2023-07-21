@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin@tarun-cluster.w8bfcnz.mongodb.net/?retryWrites=true&w=majority
+      database : University-Management
